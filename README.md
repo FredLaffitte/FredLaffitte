@@ -24,6 +24,10 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiênci
 - ![.Net MAUI Blazor Hybrid](https://img.shields.io/badge/-.Net%20MAUI%20Blazor%20Hybrid-512BD4?logo=blazor&logoColor=white&style=flat)
 - ![Xamarin](https://img.shields.io/badge/-Xamarin-3498DB?logo=xamarin&logoColor=white&style=flat)
 - ![Razor](https://img.shields.io/badge/-Razor-512BD4?logo=razor&logoColor=white&style=flat)
+- ![XAML](https://img.shields.io/badge/-XAML-0C54C2?logo=xaml&logoColor=white&style=flat)
+- ![WPF](https://img.shields.io/badge/-WPF-512BD4?logo=dotnet&logoColor=white&style=flat)
+- ![Windows Forms](https://img.shields.io/badge/-Windows%20Forms-0078D6?logo=windows&logoColor=white&style=flat)
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 
 ### Áreas de Especialização
 - ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?logo=blockchain&logoColor=white&style=flat)
