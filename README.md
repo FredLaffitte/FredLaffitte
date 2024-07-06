@@ -42,7 +42,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiênci
 ## 📫 Como me encontrar
 
 - LinkedIn: [Frederico Laffitte](https://www.linkedin.com/in/fredericolaffitte/)
-- E-mail: frederico.laffitte@gmail.com
+- E-mail: frederico@mixvip.eu
 
 ## 📊 Estatísticas do GitHub
 
