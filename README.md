@@ -32,7 +32,7 @@ Here are some of the technologies and tools I have experience with:
 - ![Windows Forms](https://img.shields.io/badge/-Windows%20Forms-0078D6?logo=windows&logoColor=white&style=flat-square)
 - ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0072C6?logo=swift&logoColor=white&style=flat-square)
 
-#### Development Across Platforms
+#### Cross-Platform Development
 - ![Web Applications](https://img.shields.io/badge/-Web%20Applications-47C5FB?logo=web&logoColor=white&style=flat-square)
 - ![iOS Applications](https://img.shields.io/badge/-iOS%20Applications-000000?logo=ios&logoColor=white&style=flat-square)
 - ![Android Applications](https://img.shields.io/badge/-Android%20Applications-3DDC84?logo=android&logoColor=white&style=flat-square)
