@@ -53,7 +53,7 @@ Here are some of the technologies and tools I have experience with:
 - ![Azure SQL Server](https://img.shields.io/badge/-Azure%20SQL%20Server-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square)
 - ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white&style=flat-square)
 - ![CosmosDB](https://img.shields.io/badge/-CosmosDB-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square)
-- ![RDS](https://img.shields.io/badge/-RDS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
+- ![Amazon RDS](https://img.shields.io/badge/-RDS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
 
 #### 🌟 Expertises
 - ![Software Engineering](https://img.shields.io/badge/-Software%20Engineering-007ACC?logo=architecture&logoColor=white&style=flat-square)
@@ -64,7 +64,6 @@ Here are some of the technologies and tools I have experience with:
 - ![Agile Methodologies](https://img.shields.io/badge/-Agile%20Methodologies-000000?logo=agile&logoColor=white&style=flat-square)
 - ![Cyber Security Foundation - CSFPC™](https://img.shields.io/badge/Cyber%20Security%20Foundation%20-%20CSFPC%E2%84%A2-red?style=flat-square)
 - ![Kanban Foundation KIKF™](https://img.shields.io/badge/-Kanban%20Foundation%20KIKF%E2%84%A2-007ACC?logo=azure&logoColor=white&style=flat-square)
-- ![Scrum Foundation Professional Certification - SFPC™](https://img.shields.io/badge/-Scrum%20Foundation%20Professional%20Certification%20-%20SFPC%E2%84%A2-007ACC?style=flat-square)
 
 ### 🌱 Ongoing Projects
 
@@ -135,7 +134,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiênci
 - ![Azure SQL Server](https://img.shields.io/badge/-Azure%20SQL%20Server-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square)
 - ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white&style=flat-square)
 - ![CosmosDB](https://img.shields.io/badge/-CosmosDB-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square)
-- ![RDS](https://img.shields.io/badge/-RDS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
+- ![Amazon RDS](https://img.shields.io/badge/-RDS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
 
 #### 🌟 Áreas de Especializações
 - ![Engenharia de Software](https://img.shields.io/badge/-Engenharia%20de%20Software-007ACC?logo=architecture&logoColor=white&style=flat-square)
@@ -146,8 +145,6 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiênci
 - ![Metodologias Ágeis](https://img.shields.io/badge/-Metodologias%20Ágeis-000000?logo=agile&logoColor=white&style=flat-square)
 - ![Fundação de Segurança Cibernética - CSFPC™](https://img.shields.io/badge/Fundação%20de%20Segurança%20Cibernética%20-%20CSFPC%E2%84%A2-red?style=flat-square)
 - ![Fundação Kanban KIKF™](https://img.shields.io/badge/-Fundação%20Kanban%20KIKF%E2%84%A2-007ACC?logo=azure&logoColor=white&style=flat-square)
-- ![Certificação Profissional Scrum Foundation - SFPC™](https://img.shields.io/badge/-Certificação%20Profissional%20Scrum%20Foundation%20-%20SFPC%E2%84%A2-007ACC?style=flat-square)
-
 
 ### 🌱 Projetos em Andamento
 
